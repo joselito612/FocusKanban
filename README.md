@@ -94,7 +94,7 @@ Extras
 
    ![Screenshot 1](src/assets/screenshots/1.PNG)
    ![Screenshot 2](src/assets/screenshots/2.PNG)
-   ![Screenshot 3](src//assetsscreenshots/3.PNG)
+   ![Screenshot 3](src/assets/screenshots/3.PNG)
    ![Screenshot 4](src/assets/screenshots/4.PNG)
    ![Screenshot 5](src/assets/screenshots/5.PNG)
    ![Screenshot 6](src/assets/screenshots/6.PNG)
