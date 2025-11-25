@@ -171,7 +171,7 @@ http://localhost:5173
 Autor
 
    Proyecto desarrollado por José Vargas Romero
-   Con el objetivo de aprender: Manejo avanzado de estado en React,Drag and Drop con DnDKit,Persistencia con MongoDB,Hooks personalizados,Sistema de notificaciones y alarmas
+   Con el objetivo de aprender: Manejo avanzado de estado en React,Drag and Drop con DnDKit,Persistencia con MongoDB,Hooks personalizados,Sistema de notificaciones y alarmas.
 
 
 
