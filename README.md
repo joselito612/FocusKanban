@@ -124,26 +124,34 @@ Instalar dependencias
 
 🔵 Frontend
 
+```
 cd src
 npm install
-
+```
 
 🔵 Backend
 
+```
 cd kanbanBackEnd
 npm install
+```
 
 🔥 Backend
 
+```
 cd src/kanbanBackEnd
 node server.js
+```
 
 Por defecto corre en:
 http://localhost:4000
 
 🔥 Frontend
+
+```
 cd src
 npm run dev
+```
 
 Por defecto:
 http://localhost:5173
@@ -163,17 +171,7 @@ http://localhost:5173
 Autor
 
    Proyecto desarrollado por José Vargas Romero
-   Con el objetivo de aprender:
-
-      Manejo avanzado de estado en React
-
-      Drag and Drop con DnDKit
-
-      Persistencia con MongoDB
-
-      Hooks personalizados
-
-      Sistema de notificaciones y alarmas
+   Con el objetivo de aprender: Manejo avanzado de estado en React,Drag and Drop con DnDKit,Persistencia con MongoDB,Hooks personalizados,Sistema de notificaciones y alarmas
 
 
 
