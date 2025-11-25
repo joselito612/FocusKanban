@@ -1,39 +1,40 @@
+```
 public/
-└─ Timbre.mp3     # sonido que usa la alarma
+└─ Timbre.mp3 # sonido que usa la alarma
 
 src/
 ├─ assets/
-│  └─ screenshots/ # capturas
+│ └─ screenshots/ # capturas
 │
 ├─ componentes/
-│  ├─ AlarmList.jsx
-│  ├─ AlarmModal.jsx          # Modal centrado para cuando suena una alarma
-│  ├─ AlarmSnackbar.jsx       # (opcional) alerta tipo snackbar
-│  ├─ DragComponent.jsx
-│  ├─ KanbanDndKit.jsx
-│  ├─ TaskForm.jsx
-│  ├─ TaskManager.jsx
+│ ├─ AlarmList.jsx
+│ ├─ AlarmModal.jsx
+│ ├─ AlarmSnackbar.jsx
+│ ├─ DragComponent.jsx
+│ ├─ KanbanDndKit.jsx
+│ ├─ TaskForm.jsx
+│ ├─ TaskManager.jsx
 │
 ├─ hooks/
-│  ├─ useAlarms.js            # Hook opcional para listar alarmas
-│  ├─ useAlarmWatcher.js      # Hook principal que detecta y dispara alarmas
-│
+│ ├─ useAlarms.js
+│ ├─ useAlarmWatcher.js
 │
 ├─ kanbanBackEnd/
-│  ├─ config/db.js
-│  ├─ models/Task.js
-│  ├─ routes/tasks.js
-│  ├─ server.js
+│ ├─ config/db.js
+│ ├─ models/Task.js
+│ ├─ routes/tasks.js
+│ ├─ server.js
 │
 ├─ services/
-│  ├─ tasksService.js         # Llamadas a la API (MongoDB)
+│ ├─ tasksService.js
 │
 ├─ utils/
-│   └─ timeRemaining.js
+│ └─ timeRemaining.js
 │
 ├─ App.jsx
 ├─ main.jsx
 └─ index.css
+```
 
 📌 Focus Kanban
 
@@ -91,13 +92,13 @@ Extras
 
    Las siguientes imágenes muestran el flujo completo del programa.
 
-   ![Screenshot 1](./src/assets/screenshots/1.png)
-   ![Screenshot 2](./src/assets/screenshots/2.png)
-   ![Screenshot 3](./src//assetsscreenshots/3.png)
-   ![Screenshot 4](./src/assets/screenshots/4.png)
-   ![Screenshot 5](./src/assets/screenshots/5.png)
-   ![Screenshot 6](./src/assets/screenshots/6.png)
-   ![Screenshot 7](./src/assets/screenshots/7.png)
+   ![Screenshot 1](src/assets/screenshots/1.PNG)
+   ![Screenshot 2](src/assets/screenshots/2.PNG)
+   ![Screenshot 3](src//assetsscreenshots/3.PNG)
+   ![Screenshot 4](src/assets/screenshots/4.PNG)
+   ![Screenshot 5](src/assets/screenshots/5.PNG)
+   ![Screenshot 6](src/assets/screenshots/6.PNG)
+   ![Screenshot 7](src/assets/screenshots/7.PNG)
 
 
 
