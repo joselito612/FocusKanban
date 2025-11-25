@@ -1,5 +1,5 @@
 //tasksService.js
-const API_URL = `${import.meta.env.VITE_API_URL}/tasks`;
+const API_URL = `${import.meta.env.production.VITE_API_URL}/tasks`;
 
 // Obtener todas las tareas
 export async function getTasks() {
