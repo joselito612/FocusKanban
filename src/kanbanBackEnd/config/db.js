@@ -2,13 +2,10 @@ import mongoose from "mongoose";
 
 export const connectDB = async () => {
   try {
-    await mongoose.connect("mongodb://localhost:27017/kanbanDB", {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
-    console.log("✅ Conectado a MongoDB");
-  } catch (err) {
-    console.error("❌ Error al conectar a MongoDB:", err);
+    await mongoose.connect(process.env.MONGODB_URI);
+    console.log("Conectado a MongoDB Atlas");
+  } catch (error) {
+    console.error("Error al conectar a MongoDB Atlas:", error);
     process.exit(1);
   }
 };
