@@ -1,5 +1,6 @@
 //tasksService.js
-const API_URL = `${import.meta.env.VITE_API_URL}/tasks`;
+const API_URL = `${import.meta.env.VITE_API_URL}/api/tasks`;
+
 
 
 // Obtener todas las tareas
