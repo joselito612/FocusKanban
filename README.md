@@ -143,8 +143,6 @@ cd src/kanbanBackEnd
 node server.js
 ```
 
-Por defecto corre en:
-http://localhost:4000
 
 🔥 Frontend
 
@@ -153,8 +151,13 @@ cd src
 npm run dev
 ```
 
-Por defecto:
-http://localhost:5173
+Demo en Producción
+
+Frontend:
+🔗 https://focuskanban.netlify.app/
+
+Backend API:
+🔗 https://focuskanban.onrender.com/api/tasks
 
 
 🧠 Motivación
