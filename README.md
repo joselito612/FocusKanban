@@ -117,7 +117,7 @@ Debes tener instalado:
 ## 2️⃣ Clonar el repositorio
 
 
-git clone https://github.com//focus-kanban.git
+git clone https://github.com/joselito612/FocusKanban.git
 cd focus-kanban
 
 Instalar dependencias
